@@ -1,0 +1,47 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+.navbar{
+        background-color:#fbe774;
+        height: 75px;
+        overflow: hidden;
+}
+
+#logo{
+    width: 55px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.form-inline div input{
+    width: 325px;
+}
+
+.input-group-prepend,
+.input-group-text{
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+}
+.seals-link{
+    color: white;
+    position: relative;
+    left: -22px;
+    bottom: -5px;
+}
+#home{
+    position: relative;
+    left: 300px;
+}
+#about{
+    position: relative;
+    left: 500px;
+}
+#contact{
+    position: relative;
+    left: 700px;
+}
+#blog{
+    position: relative;
+    left: 1000px;
+}

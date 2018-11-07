@@ -1,0 +1,51 @@
+h1 {
+    font-family: optima;
+    text-align: center;
+    text-decoration-line: underline;
+
+}
+p {
+    font-family: optima;
+}
+#navbarcolor {
+     background-color: #C6F4CB;
+}
+#animeloc {
+position: relative;
+bottom: 5px;
+}
+#namecolor {
+color: #1193DD;
+text-decoration-line: underline;
+}
+ul {
+  background-color: #D8F0FF;
+  position: relative;
+ left: -40px;
+  
+}
+div {
+    position: relative;
+    left: 180px;
+    bottom: 75px;
+    
+}
+#logo {
+    position: relative;
+    left: -190px;
+    bottom: 0px;
+    width: 95px;
+    height: 60px;
+    
+}
+input {
+    position: relative;
+    left: 450px;
+    bottom: 25px;
+}
+
+button {
+    position: relative;
+    left: 450px;
+    bottom: 25px;
+}
